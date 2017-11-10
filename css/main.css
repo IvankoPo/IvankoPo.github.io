@@ -1,0 +1,359 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Playfair+Display+SC');
+
+body {
+  position: relative;
+  background: #f2f2f2;
+  font-family: 'Tahoma', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scroll: touch;
+
+  margin-top: 70px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Tahoma', serif;
+  font-weight: 300;
+  color: #fff;
+}
+
+p{
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+
+.centered{
+  text-align: center;
+}
+
+a {
+  color: #c3c3c3;
+}
+
+a:hover,a:focus{
+  color: #7b7b7b;
+  text-decoration: none;
+  outline: 0;
+}
+
+.navbar {
+  font-weight: 800;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-inverse {
+  background: #2d2d2d;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #999;
+  font-weight: bolder;
+  font-size: 25px;
+  letter-spacing: 3px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------------*/
+
+.parallax-window {
+  min-height: 900px;
+  background: transparent;
+}
+
+
+.parallax-window:last-child {
+  min-height: 600px;
+  background: transparent;
+}
+
+.textIntro {
+  height: 180px;
+}
+
+.textIntro h4 {
+  margin-top: 5%;
+  color: #fff;
+  font-size: 60px;
+  font-weight: 300;
+}
+
+.textIntro h3 {
+  margin-top: 20%;
+  font-size: 30px;
+}
+
+.logo {
+  color: #fff;
+}
+.logoi{
+  color: #20B2AA;
+}
+
+.pol {
+  top: -100px;
+  background: #2d2d2d;
+  min-height: 440px;
+  border-radius: 10px;
+}
+
+.pol h1 {
+  margin-top: 5%;
+}
+
+.pol h4 {
+  font-size: 25px;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.pol1 {
+  margin-top: -20px;
+}
+
+.buttn {
+  font-family: 'Playfair Display SC', serif;
+  border: 3px solid #fff;
+  border-radius: 10px;
+  background: none;
+  color: #fff;
+  font-size: 18px;
+  height: 45px;
+  width: 200px;
+
+  transition: .2s;
+}
+
+button {outline:none;}
+
+.buttn:hover {
+  background: #fff;
+  color: #2d2d2d
+}
+
+.pol2 h1,h2{
+  text-shadow: 1px 1px 1px #000;
+  margin-bottom: 20px;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------*/
+
+.navik {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.lang{
+  text-shadow: 1px 1px 1px #000;
+  font-size: 25px;
+  height: 20px;
+  color: #2d2d2d;
+}
+
+.HI{
+  text-shadow: 1px 1px 1px #000;
+  font-size: 20px;
+  color: #fff;
+}
+
+.JS,.HT,.CSS,.PHP,.boot,.Phot {
+  margin-top: 7px;
+  height: 20px;
+  background: #000;
+  opacity: .6;
+  border-radius: 20px;
+  transition: .5s;
+}
+
+.JS:hover,.HT:hover,.CSS:hover,.PHP:hover,.boot:hover,.Phot:hover {
+  opacity: 1;
+}
+
+.JS {
+  width: 70%;
+}
+
+.HT {
+  width: 80%;
+}
+
+.CSS {
+  width: 80%;
+}
+
+.PHP {
+  width: 75%;
+}
+
+.boot {
+  width: 45%;
+}
+
+.Phot {
+  width: 75%;
+}
+
+.infoModel {
+  min-height: 800px;
+  background: #9E9484;
+  padding: 50px
+}
+
+.infoModel h1 {
+  font-size: 45px;
+  margin-top: 100px;
+}
+
+.infoModel h4 {
+  font-size: 25px;
+  margin-top: 60px;
+}
+
+.infoModel i {
+  font-size: 20px;
+}
+
+.infoModel a {
+  color: #2d2d2d;
+}
+
+.infoModel a:hover {
+  color: #4D5466;
+}
+
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9,.img10,.img11,.img12 {
+  height: 400px;
+}
+
+.portfol {
+  background: #2d2d2d;
+  position: absolute;
+  top: -10px;
+  width: 100%;
+}
+
+.portfol,.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9,.img10,.img11,.img12 {
+  margin-top: 10px;
+}
+
+.img1 {transition: .5s;background: url(https://pp.userapi.com/c637222/v637222198/3fc07/mBJXsseYJLg.jpg) center;background-size: cover;}
+.img2 {transition: .5s;background: url(https://pp.userapi.com/c636018/v636018198/201c8/BYYvvkL08fA.jpg) center;background-size: cover;}
+.img3 {transition: .5s;background: url(https://pp.userapi.com/c836633/v836633198/3a976/_GDXFGVjbmU.jpg) center;background-size: cover;}
+.img4 {transition: .5s;background: url(https://pp.userapi.com/c836139/v836139198/39d30/ncExFqvOA2I.jpg) center;background-size: cover;}
+.img5 {transition: .5s;background: url(https://pp.userapi.com/c626224/v626224198/4cf53/yq4BR6X0md4.jpg) center;background-size: cover;}
+.img6 {transition: .5s;background: url(https://pp.userapi.com/c836736/v836736198/babd/9vCm2JK2VZc.jpg) center;background-size: cover;}
+.img7 {transition: .5s;background: url(https://pp.userapi.com/c631130/v631130198/45d46/6P27KIDVhCs.jpg) center;background-size: cover;}
+.img8 {transition: .5s;background: url(https://pp.userapi.com/c636616/v636616198/44c08/0JjMdYbN_KQ.jpg) center;background-size: cover;}
+.img9 {transition: .5s;background: url(https://pp.userapi.com/c631331/v631331198/222e5/H8scsO22lt8.jpg) center;background-size: cover;}
+.img10{transition: .5s;background: url(https://pp.userapi.com/c627618/v627618198/1d11e/NI5rk6aKtRg.jpg) center;background-size: cover;}
+.img11{transition: .5s;background: url(https://pp.userapi.com/c627216/v627216198/1382b/3h8DYM6DSzA.jpg) center;background-size: cover;}
+.img12{transition: .5s;background: url(https://pp.userapi.com/c625320/v625320198/312d9/Kx42k12Pf8U.jpg) center;background-size: cover;}
+
+.img1:hover,.img2:hover,.img3:hover,.img4:hover,.img5:hover,.img6:hover,
+.img7:hover,.img8:hover,.img9:hover,.img10:hover,.img11:hover,.img12:hover{
+  box-shadow:inset 1px 1px 200px #000;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+.opit {
+  opacity: .9;
+  background: url(http://img11.nnm.me/2/0/f/d/e/fb79dc70f452ee748f9a24c44d9.jpg);
+  background-size: cover;
+  height: 1300px;
+}
+
+.opitTextfirst {
+  margin-top: 100px;
+}
+
+.opitText, .opitTextfirst {
+  color: #fff;
+}
+
+.fonGrad {
+  height: 100%;
+  width: 100%;
+  background: #9C886F;
+  opacity: .9;
+}
+
+.fonGrad h2 {
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: -50px;
+}
+
+.fonGrad p {
+  font-size: 22px;
+  text-shadow: 1px 1px 1px #000;
+}
+
+label {
+  color: #fff;
+  font-size: 20px;
+  opacity: .9;
+}
+
+.footerLast {
+  margin-top: 80px;
+  min-height: 80px;
+  background: #2d2d2d;
+}
+
+.ListUp {
+  color: #2d2d2d;
+  position: absolute;
+  margin-top: -40px;
+  font-size: 40px;
+  transition: .5s;
+}
+
+.ListUp:hover {
+  color: #fff;
+}
+
+.allSet1,.allSet2,.allSet3,.allSet4,.allSet5,.allSet6,.allSet7,.allSet8 {
+  margin-top: 25px;
+  color: #fff;
+  font-size: 30px;
+  transition: .3s;
+}
+
+.allSet1:hover { color: #B70D18; }
+.allSet2:hover { color: #1343A9; }
+.allSet3:hover { color: #029AD7; }
+.allSet4:hover { color: #206998; }
+.allSet5:hover { color: #534948; }
+.allSet6:hover { color: #DC412F; }
+.allSet7:hover { color: #C24678; }
+.allSet8:hover { color: #66CDFA; }
+
+.modalProt {
+  margin-top: 25%;
+  height: 300px;
+  background: #2d2d2d;
+  border-radius: 20px;
+}
+
+.home {
+  position: absolute;
+  height: 40px;
+  background: #fff;
+}
+
+/*
+<div class="modal-content">
+  <div class="modal-header">
+    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+  </div>
+  <div class="modal-body">
+    Спасибо
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+  </div>
+</div>
+*/
