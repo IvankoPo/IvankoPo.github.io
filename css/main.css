@@ -38,7 +38,6 @@ a:hover,a:focus{
   text-decoration: none;
   outline: 0;
 }
-
 .navbar {
   font-weight: 800;
   padding-top: 10px;
@@ -236,24 +235,6 @@ button {outline:none;}
 
 .portfol,.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9,.img10,.img11,.img12 {
   margin-top: 10px;
-}
-
-.img1 {transition: .5s;background: url(https://pp.userapi.com/c637222/v637222198/3fc07/mBJXsseYJLg.jpg) center;background-size: cover;}
-.img2 {transition: .5s;background: url(https://pp.userapi.com/c636018/v636018198/201c8/BYYvvkL08fA.jpg) center;background-size: cover;}
-.img3 {transition: .5s;background: url(https://pp.userapi.com/c836633/v836633198/3a976/_GDXFGVjbmU.jpg) center;background-size: cover;}
-.img4 {transition: .5s;background: url(https://pp.userapi.com/c836139/v836139198/39d30/ncExFqvOA2I.jpg) center;background-size: cover;}
-.img5 {transition: .5s;background: url(https://pp.userapi.com/c626224/v626224198/4cf53/yq4BR6X0md4.jpg) center;background-size: cover;}
-.img6 {transition: .5s;background: url(https://pp.userapi.com/c836736/v836736198/babd/9vCm2JK2VZc.jpg) center;background-size: cover;}
-.img7 {transition: .5s;background: url(https://pp.userapi.com/c631130/v631130198/45d46/6P27KIDVhCs.jpg) center;background-size: cover;}
-.img8 {transition: .5s;background: url(https://pp.userapi.com/c636616/v636616198/44c08/0JjMdYbN_KQ.jpg) center;background-size: cover;}
-.img9 {transition: .5s;background: url(https://pp.userapi.com/c631331/v631331198/222e5/H8scsO22lt8.jpg) center;background-size: cover;}
-.img10{transition: .5s;background: url(https://pp.userapi.com/c627618/v627618198/1d11e/NI5rk6aKtRg.jpg) center;background-size: cover;}
-.img11{transition: .5s;background: url(https://pp.userapi.com/c627216/v627216198/1382b/3h8DYM6DSzA.jpg) center;background-size: cover;}
-.img12{transition: .5s;background: url(https://pp.userapi.com/c625320/v625320198/312d9/Kx42k12Pf8U.jpg) center;background-size: cover;}
-
-.img1:hover,.img2:hover,.img3:hover,.img4:hover,.img5:hover,.img6:hover,
-.img7:hover,.img8:hover,.img9:hover,.img10:hover,.img11:hover,.img12:hover{
-  box-shadow:inset 1px 1px 200px #000;
 }
 
 /*------------------------------------------------------------------------------------------------------------------------------------*/
