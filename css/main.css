@@ -13,7 +13,6 @@ body {
 
   margin-top: 70px;
 }
-
 h1,h2,h3,h4,h5,h6{
   font-family: 'Tahoma', serif;
   font-weight: 300;
@@ -140,15 +139,15 @@ button {outline:none;}
 /*----------------------------------------------------------------------------------------------------------------------*/
 
 .navik {
-  margin-top: 70px;
-  margin-bottom: 70px;
+  margin-top: 30px;
+  margin-bottom: 40px;
 }
 
 .lang{
   text-shadow: 1px 1px 1px #000;
   font-size: 25px;
   height: 20px;
-  color: #2d2d2d;
+  color: white;
 }
 
 .HI{
@@ -222,9 +221,6 @@ button {outline:none;}
   color: #4D5466;
 }
 
-.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9,.img10,.img11,.img12 {
-  height: 400px;
-}
 
 .portfol {
   background: #2d2d2d;
